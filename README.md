@@ -1,70 +1,84 @@
 # 🎮 Game-UI-System-Prototype-Unity
 
-## Overview
+## 🔹 Short Introduction
 
-Game-UI-System-Prototype-Unity is a Unity-based slicing game prototype inspired by arcade mechanics similar to *Fruit Ninja*.  
+Game-UI-System-Prototype-Unity is a Unity-based slicing arcade prototype inspired by fast-paced object interaction mechanics.  
 
-This project focuses on integrating structured gameplay systems with a modular UI architecture, responsive feedback, and scalable difficulty design.
-
-The goal of this prototype was to explore how gameplay logic, UI systems, and feedback mechanisms can work together in a clean and maintainable structure.
+The project focuses on building a modular gameplay system integrated with structured UI/UX architecture, responsive audio-visual feedback, and scalable difficulty logic.
 
 ---
 
-## 🎯 Core Features
+## 🛠 Technologies Used
 
-### 🖥 UI / UX System
-- Main menu and in-game HUD
-- Real-time score and life display
-- Pause menu with interactive settings
-- Gameplay difficulty selection
-- Volume adjustment controls
-
-### 🔊 Audio & Visual Feedback
-- Sound effects for slicing and collision events
-- Master volume system integrated into UI
-- Particle effects triggered on object interaction
-
-### 🎮 Gameplay Mechanics
-- Swipe-based slicing system
-- Collision detection for object interaction
-- Dynamic object spawner
-- Score tracking system
-- Life system with game-over logic
-- Difficulty scaling affecting spawn rate and gameplay intensity
+- Unity Engine  
+- C#  
+- Unity UI System  
+- Particle System  
+- Unity Audio System  
 
 ---
 
-## 🧠 Technical Focus
+## 🎮 Features (What the User Can Do)
 
-This project emphasizes:
-
-- Modular UI system design
-- Clean separation between input handling and gameplay logic
-- Event-driven game state management (Pause, Game Over)
-- Scalable difficulty architecture
-- Interaction between UI components and core gameplay systems
-
----
-
-## 🛠 Built With
-
-- Unity
-- C#
+- Swipe to slice objects on screen  
+- Gain points through successful interactions  
+- Lose lives when missing targets  
+- Select gameplay difficulty  
+- Pause and resume the game  
+- Adjust master volume  
+- Experience sound effects and particle feedback  
 
 ---
 
-## 📌 Learning Outcomes
+## ⌨ Keyboard Shortcuts
 
-- Implementing structured UI systems in Unity
-- Managing game states and gameplay flow
-- Integrating audio and particle feedback into interaction systems
-- Designing scalable gameplay mechanics
+- `ESC` — Pause / Resume Game  
+- `R` — Restart Game  
+- `Mouse Drag` — Swipe / Slice  
 
 ---
 
-## 🚀 Future Improvements
+## 🏗 Development Process
 
-- Combo multiplier system
-- Advanced visual feedback effects
-- Leaderboard integration
-- Performance optimization for mobile devices
+1. Implemented the player swipe and collision detection system  
+2. Designed the object spawner with configurable spawn rate  
+3. Built the score and life system with game-over logic  
+4. Integrated UI elements (HUD, Pause Menu, Difficulty Selection)  
+5. Added audio feedback and particle effects for interaction events  
+6. Refactored gameplay logic to improve modularity and maintainability  
+
+---
+
+## 📚 What I Learned
+
+- Designing modular gameplay architecture  
+- Structuring UI systems in Unity  
+- Managing game states (Pause, Game Over, Difficulty Scaling)  
+- Integrating particle and audio feedback systems  
+- Separating input handling from gameplay logic  
+
+---
+
+## 🚀 What Could Be Improved
+
+- Combo multiplier system  
+- More advanced enemy behavior patterns  
+- Mobile optimization  
+- Improved UI animations and transitions  
+- Leaderboard system  
+
+---
+
+## ▶ How to Run the Project
+
+1. Clone the repository  
+2. Open the project using Unity Hub  
+3. Ensure Unity version compatibility  
+4. Open the main scene  
+5. Press Play in the Unity Editor  
+
+---
+
+## 🎥 Demo Video
+
+[Insert gameplay demo link here]
