@@ -87,4 +87,3 @@ The main focus of this project is understanding how gameplay mechanics, UI syste
 
 ## 🎥 Demo Video
 
-(Add gameplay demo link here)
